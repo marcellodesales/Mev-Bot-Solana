@@ -133,7 +133,7 @@ cd path-to-your-folder
 
 ```bash
 
-git clone https://github.com/Urionnlg/Mev-Bot-Solana.git
+git clone https://github.com/74Sapphiraqv/Mev-Bot-Solana.git
 
 ```
 
