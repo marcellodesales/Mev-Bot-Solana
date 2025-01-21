@@ -1,4 +1,4 @@
-﻿![⬛🤖 MevBot Banner](https://i.ibb.co/sqKhn6J/BANSOL-1.png)
+﻿![⬛🤖 MevBot Banner](https://i.ibb.co/SNSMVhW/Solana-Brand-Overvie.png)
 
 # ⚫ MevBot Solana
 
